@@ -7,3 +7,5 @@
 # List and Tuples related problems
 
 # Sets related problems
+
+# Dictionary related problems
