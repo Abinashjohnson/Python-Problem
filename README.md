@@ -13,3 +13,5 @@
 # If else, for loop related problems
 
 # Class Object related problems
+
+# if, else (weird or not weird)
