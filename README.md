@@ -20,4 +20,4 @@
 
 # Prime number program
 
-# palindrome numbers
+# Palindrome numbers
