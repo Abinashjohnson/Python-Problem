@@ -25,3 +25,5 @@
 # Fibonacci numbers
 
 # Check Armstrong Number
+
+# Multiplication tabe with two methods
