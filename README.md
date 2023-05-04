@@ -29,3 +29,5 @@
 # Multiplication tabe with two methods
 
 # Finding LCM
+
+# Finding HCF
